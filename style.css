@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    color: white;
+    /* margin: 0 auto; */
+    
+    gap: 75px;
+    justify-content: center;
+    align-items: center;
+}
+.header_first {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+.item_head {
+    font-size: 36px;
+    color: #bd8b68;
+    font-family: Calibri;
+}
+.item {
+    font-size: 38px;
+    color: #fff;
+    font-family: Calibri;
+}
+.add {
+    color: #bd8b68;
+    font-family: Calibri;
+    font-size: 16px;
+}
